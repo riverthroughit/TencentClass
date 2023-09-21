@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7A20B1C6-4905-947A-19B2-90B154A2A847}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TencentClass",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
